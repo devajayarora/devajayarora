@@ -3,7 +3,7 @@
 🔭 I’m currently working on Chatbot Development using RASA in Python<br>
 🌱 I’m currently learning AI, agents, AI frameworks and libraries<br>
 💬 Ask me about anything<br>
-📫 How to reach me: mailto:arora.ajay06@gmail.com<br><br>
+📫 How to reach me: arora.ajay06@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
